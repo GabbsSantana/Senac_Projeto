@@ -1,14 +1,16 @@
 ### Aprendizado por Projeto Integrador - SENAC São José dos Campos
 
-<div align="center"> ![1200px-Senac_logo svg](https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/687d826c-e11c-4ba6-b2e4-3aa497cdf009)</div>
 
-
-
+<div align="center">
+<img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/c270d6dc-0a87-483f-9e50-6c24a22c03f0" width="300px" />
+</div>
 
 
 
 ## 🎯 DESAFIO
-Desenvolver um sistema web para controle de ordem de serviços (SOS) automatizar o processo de informação de equipamentos com mau funcionamento (Hardware e Software), onde haverá um mapa de localização (Layout) e uma legenda com possíveis defeitos. Os desenvolvedores deverão através da experiência adquirida sinalizar esses defeitos e sugerir ao cliente possibilidades visuais dessas indicações. Haverá a possibilidade de mudanças de layout, nomenclatura do computador, características do hardware e software e situações similares são funcionalidades que deverão ser contemplados no sistema. Bem como toda a documentação de desenvolvimento deverá ser lastreado no GitHub com todos os processos necessários para a fidelização do cliente.
+Este projeto, desenvolvido durante o curso técnico de TI no Senac, é um desafio em grupo para criar um programa em C# voltado para uma loja de games. A implementação abrange o uso do SQL Server para o banco de dados e incorpora conceitos avançados, como diagrama de caso de uso e lógica de uso no programa. O objetivo central é construir um sistema completo para a gestão de produtos, clientes e transações na loja de games, proporcionando uma experiência prática na aplicação de conhecimentos em C#.
+
+O projeto utiliza as tecnologias C# (linguagem de programação) e SQL Server (gerenciamento de banco de dados). As funcionalidades incluem o cadastro e gestão de produtos e clientes, processamento de transações de compra e venda, e armazenamento de dados no SQL Server.
 
 ## ♻️🔃 METODOLOGIA
 A metodologia abordada durante o projeto foi a Scrum, considerada um método ágil. Trata-se de um framework (conjunto de ações e estratégias para solucionar problemas de uma atividade complexa) para mais informações acesse o vídeo [Metodologia Scrum](https://www.youtube.com/watch?v=XfvQWnRgxG0&t=130s).
@@ -16,7 +18,7 @@ A metodologia abordada durante o projeto foi a Scrum, considerada um método ág
 
 ## 📖 TECNOLOGIAS UTILIZADAS
 
-### HTML | CSS | PYTHON | FLASK | SQLITE | BOOTSTRAP
+### C# | SQL Server
 ![image](https://user-images.githubusercontent.com/53665466/200418928-4087e61d-6bd3-41a6-a213-954247235808.png)
 
 
