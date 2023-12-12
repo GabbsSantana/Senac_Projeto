@@ -1,9 +1,8 @@
-### Aprendizado por Projeto Integrador - FATEC São José dos Campos - Prof. Jessen Vidal
+### Aprendizado por Projeto Integrador - SENAC São José dos Campos
 
-# Grupo MIG <a href="" target="_blank"><img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow"></a>
+<div align="center"> ![1200px-Senac_logo svg](https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/687d826c-e11c-4ba6-b2e4-3aa497cdf009)</div>
 
 
-<div align="center"><img src="https://user-images.githubusercontent.com/53665466/200074701-d2e1f138-f30e-42d2-94f7-9f9211c5f206.png"> </div>
 
 
 
