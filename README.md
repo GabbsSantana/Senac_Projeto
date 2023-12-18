@@ -1,5 +1,5 @@
 ### Aprendizado por Projeto Integrador - SENAC São José dos Campos
-
+<img src="https://img.shields.io/badge/status-%20concluido-green">
 
 <div align="center">
 <img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/c270d6dc-0a87-483f-9e50-6c24a22c03f0" width="300px" />
@@ -45,3 +45,14 @@ A metodologia abordada durante o projeto foi a Scrum, considerada um método ág
 
 
 ## 🎥 DEMONSTRAÇÂO
+
+### Tela de Login
+<img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/fdead914-aca1-437e-a1a6-e5e421d4ae8a" width="500px" />
+
+### Tela de Cadastro
+<img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/f3fe4be6-86b0-41c9-ad6f-3b204097436f" width="500px" />
+
+## Tela de Estoque
+<img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/40154812-9a3f-4bdf-aa0c-1cd50cedef63" width="500px" />
+
+
