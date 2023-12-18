@@ -21,6 +21,19 @@ A metodologia abordada durante o projeto foi a Scrum, considerada um método ág
 ### C# | SQL Server
 <img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/626519ce-6e11-42d2-b5b2-ce6297ef22ac" width="800px" />
 
+## 📋 Diagramas
+### Drigrama de Atividade
+<img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/b0987bb8-1cf4-4da2-8dca-bc07d6385053" width="700px" />
+
+
+### Diagrama Caso de Uso
+<img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/2bdb2135-2aa3-4911-a29b-ea8c9b163375" width="700px" />
+
+
+### Diagrama de Classe
+<img src="https://github.com/GabbsSantana/Senac_Projeto/assets/112488445/3bbaaef5-5321-478d-8fb2-820aa4271ab1" width="700px" />
+
+
 
 
 ## 📒 BACKLOG
